@@ -4,18 +4,24 @@
 
 ```bash
 pnpm i
-
-or
-
-npm i
 ```
 
 2. Run the script:
 
 ```bash
 pnpm download
+```
+
+3. Open images directory
+
+```bash
+pnpm see:win
 
 or
 
-npm run download
+pnpm see:mac
+
+or
+
+pnpm see:lix
 ```

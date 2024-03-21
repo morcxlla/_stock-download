@@ -5,6 +5,9 @@
     "axios": "1.6.8"
   },
   "scripts": {
-    "download": "node index.js"
+    "download": "node index.js",
+    "see:win": "cd dist && explorer .",
+    "see:mac": "cd dist && open .",
+    "see:lix": "cd dist && xdg-open ."
   }
 }
