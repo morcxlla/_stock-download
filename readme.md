@@ -1,4 +1,10 @@
-#
+# README
+
+Simple script, which downloads the images you want, using the unsplash api
+
+![](https://source.unsplash.com/random)
+
+## Use It
 
 1. Install the dependencies:
 
